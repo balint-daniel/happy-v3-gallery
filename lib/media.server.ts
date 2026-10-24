@@ -4,7 +4,6 @@ import { areaKeys, type MediaItem, type MediaLibrary } from '@/lib/media'
 
 const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.avif', '.gif'])
 const VIDEO_EXTENSIONS = new Set(['.mp4', '.mov', '.m4v', '.webm'])
-const MAX_HERO_PHOTOS = 3
 
 const byNaturalName = new Intl.Collator('en', { numeric: true, sensitivity: 'base' }).compare
 
@@ -36,6 +35,5 @@ export function getMediaLibrary(): MediaLibrary {
 export function getHeroPhotos(): string[] {
   return readMediaFolder('hero')
     .filter((item) => item.type === 'image')
-    .slice(0, MAX_HERO_PHOTOS)
     .map((item) => item.src)
 }
