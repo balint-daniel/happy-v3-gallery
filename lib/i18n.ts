@@ -112,8 +112,8 @@ const hu = {
     text: 'Három helyszín, egy felhőtlen nap. Válaszd ki, melyiket néznéd meg közelebbről – rákattintva a saját fotóinkat és videóinkat is láthatod.',
     honestTitle: 'Valódi képek, filter nélkül',
     honestText:
-      'A borítók csak hangulatképek – mögöttük viszont a saját telefonos fotóink és videóink vannak, hogy pontosan tudd, mi vár rátok.',
-    open: 'Valós képek és videók',
+      'A borítók csak hangulatképek – mögöttük viszont a saját fotóink és videóink vannak, hogy pontosan tudd, mi vár rátok.',
+    open: 'Képek és videók',
     soon: 'Képek hamarosan',
     photos: 'fotó',
     videos: 'videó',
@@ -138,7 +138,7 @@ const hu = {
       },
     },
     viewer: {
-      dialogLabel: 'Valós képek és videók',
+      dialogLabel: 'Képek és videók',
       tabsAria: 'Helyszín kiválasztása',
       close: 'Bezárás',
       prev: 'Előző',
@@ -274,11 +274,11 @@ const sr: Dictionary = {
   gallery: {
     eyebrow: 'Galerija',
     title: 'Razgledaj kod nas!',
-    text: 'Tri prostora, jedan bezbrižan dan. Izaberi koji želiš da pogledaš izbliza – klikom vidiš i naše prave fotografije i video snimke.',
-    honestTitle: 'Prave slike, bez filtera',
+    text: 'Tri prostora, jedan bezbrižan dan. Izaberi koji želiš da pogledaš izbliza – klikom vidiš i naše fotografije i video snimke.',
+    honestTitle: 'Slike, bez filtera',
     honestText:
-      'Naslovne slike samo dočaravaju atmosferu – iza njih su naše sopstvene fotografije i snimci telefonom, da tačno znaš šta vas čeka.',
-    open: 'Prave slike i snimci',
+      'Naslovne slike samo dočaravaju atmosferu – iza njih su naše sopstvene fotografije i snimci, da tačno znaš šta vas čeka.',
+    open: 'Slike i snimci',
     soon: 'Slike uskoro',
     photos: 'foto',
     videos: 'video',
@@ -303,7 +303,7 @@ const sr: Dictionary = {
       },
     },
     viewer: {
-      dialogLabel: 'Prave slike i snimci',
+      dialogLabel: 'Slike i snimci',
       tabsAria: 'Izbor prostora',
       close: 'Zatvori',
       prev: 'Prethodna',
