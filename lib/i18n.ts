@@ -59,8 +59,8 @@ const hu = {
   },
   concept: {
     eyebrow: 'Rólunk',
-    title: 'Kicsiknek és nagyoknak is tökéletes helyszín',
-    text: 'Nálunk a fiatalok és az idősebbek is megtalálják a tökéletes helyet a kikapcsolódásra és a szórakozásra. Két külön bérelhető helyiség – válaszd azt, amelyik jobban illik az alkalomhoz!',
+    title: 'Ahol minden generáció otthon érzi magát',
+    text: 'Nálunk a legfiatalabbaktól az idősebb korosztályig mindenki megtalálja a felhőtlen szórakozás élményét. Két egyedien kialakított, külön-külön bérelhető helyiségünk garantálja, hogy a rendezvényed pontosan olyan legyen, amilyennek megálmodtad. Válaszd az alkalomhoz leginkább illő teret!',
     occasions: ['Születésnapok', 'Privát bulik', 'Elsőáldozás, keresztelő', 'Családi összejövetelek'],
     seePhotos: 'Fotók',
     spaces: [
@@ -218,7 +218,7 @@ const sr: Dictionary = {
   },
   concept: {
     eyebrow: 'O nama',
-    title: 'Savršeno mesto i za male i za velike',
+    title: 'Mesto gde se sve generacije osećaju kao kod kuće',
     text: 'Kod nas i mlađi i stariji pronalaze savršeno mesto za opuštanje i zabavu. Dva odvojena prostora za iznajmljivanje – izaberi onaj koji najbolje odgovara prilici!',
     occasions: ['Rođendani', 'Privatne žurke', 'Prva pričest, krštenje', 'Porodična okupljanja'],
     seePhotos: 'Slike',
