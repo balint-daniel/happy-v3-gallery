@@ -62,7 +62,7 @@ const hu = {
     title: 'Kicsiknek és nagyoknak is tökéletes helyszín',
     text: 'Nálunk a fiatalok és az idősebbek is megtalálják a tökéletes helyet a kikapcsolódásra és a szórakozásra. Két külön bérelhető helyiség – válaszd azt, amelyik jobban illik az alkalomhoz!',
     occasions: ['Születésnapok', 'Privát bulik', 'Elsőáldozás, keresztelő', 'Családi összejövetelek'],
-    seePhotos: 'Fotók és videók',
+    seePhotos: 'Fotók',
     spaces: [
       {
         eyebrow: '1. helyiség',
@@ -109,11 +109,11 @@ const hu = {
   gallery: {
     eyebrow: 'Galéria',
     title: 'Nézz körül nálunk!',
-    text: 'Három helyszín, egy felhőtlen nap. Válaszd ki, melyiket néznéd meg közelebbről – rákattintva a saját fotóinkat és videóinkat is láthatod.',
+    text: 'Három helyszín, egy felhőtlen nap. Válaszd ki, melyiket néznéd meg közelebbről – rákattintva a saját fotóinkat is láthatod.',
     honestTitle: 'Valódi képek, filter nélkül',
     honestText:
-      'A borítók csak hangulatképek – mögöttük viszont a saját fotóink és videóink vannak, hogy pontosan tudd, mi vár rátok.',
-    open: 'Képek és videók',
+      'A borítók csak hangulatképek – mögöttük viszont a saját fotóink vannak, hogy pontosan tudd, mi vár rátok.',
+    open: 'Képek',
     soon: 'Képek hamarosan',
     photos: 'fotó',
     videos: 'videó',
@@ -138,7 +138,7 @@ const hu = {
       },
     },
     viewer: {
-      dialogLabel: 'Képek és videók',
+      dialogLabel: 'Képek',
       tabsAria: 'Helyszín kiválasztása',
       close: 'Bezárás',
       prev: 'Előző',
@@ -146,7 +146,7 @@ const hu = {
       thumbsAria: 'Bélyegképek',
       photoAlt: 'valós fotó',
       video: 'Videó',
-      empty: 'Ide hamarosan feltöltjük a saját képeinket és videóinkat.',
+      empty: 'Ide hamarosan feltöltjük a saját képeinket.',
     },
   },
   booking: {
@@ -221,7 +221,7 @@ const sr: Dictionary = {
     title: 'Savršeno mesto i za male i za velike',
     text: 'Kod nas i mlađi i stariji pronalaze savršeno mesto za opuštanje i zabavu. Dva odvojena prostora za iznajmljivanje – izaberi onaj koji najbolje odgovara prilici!',
     occasions: ['Rođendani', 'Privatne žurke', 'Prva pričest, krštenje', 'Porodična okupljanja'],
-    seePhotos: 'Slike i snimci',
+    seePhotos: 'Slike',
     spaces: [
       {
         eyebrow: '1. prostor',
@@ -274,11 +274,11 @@ const sr: Dictionary = {
   gallery: {
     eyebrow: 'Galerija',
     title: 'Razgledaj kod nas!',
-    text: 'Tri prostora, jedan bezbrižan dan. Izaberi koji želiš da pogledaš izbliza – klikom vidiš i naše fotografije i video snimke.',
+    text: 'Tri prostora, jedan bezbrižan dan. Izaberi koji želiš da pogledaš izbliza – klikom vidiš i naše fotografije.',
     honestTitle: 'Slike, bez filtera',
     honestText:
-      'Naslovne slike samo dočaravaju atmosferu – iza njih su naše sopstvene fotografije i snimci, da tačno znaš šta vas čeka.',
-    open: 'Slike i snimci',
+      'Naslovne slike samo dočaravaju atmosferu – iza njih su naše sopstvene fotografije, da tačno znaš šta vas čeka.',
+    open: 'Slike',
     soon: 'Slike uskoro',
     photos: 'foto',
     videos: 'video',
@@ -303,7 +303,7 @@ const sr: Dictionary = {
       },
     },
     viewer: {
-      dialogLabel: 'Slike i snimci',
+      dialogLabel: 'Slike',
       tabsAria: 'Izbor prostora',
       close: 'Zatvori',
       prev: 'Prethodna',
@@ -311,7 +311,7 @@ const sr: Dictionary = {
       thumbsAria: 'Sličice',
       photoAlt: 'prava fotografija',
       video: 'Video',
-      empty: 'Uskoro ćemo ovde postaviti naše fotografije i video snimke.',
+      empty: 'Uskoro ćemo ovde postaviti naše fotografije.',
     },
   },
   booking: {
