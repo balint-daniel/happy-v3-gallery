@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import { useEffect, useState } from 'react'
 
-const INTERVAL_MS = 5000
+const INTERVAL_MS = 2500
 
 export function HeroSlideshow({ slides, slideLabel }: { slides: { src: string; alt: string }[]; slideLabel: string }) {
   const [active, setActive] = useState(0)
